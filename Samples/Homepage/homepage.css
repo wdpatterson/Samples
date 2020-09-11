@@ -1,0 +1,47 @@
+body{
+	background-image: url("https://wallpaperaccess.com/full/199948.jpg");
+	background-repeat: no-repeat;
+    background-size: cover;
+	transition: opacity 700ms;
+	transition-duration: 1.5s;	
+	}
+ 
+h1{
+	font-family: Arial, Helvetica, sans-serif;
+	margin-top: 100px;
+	text-align: center;
+	color: white;
+	font-size: 100px;	
+	text-shadow: 2px 2px 10px black;
+	transition-duration: 1.5s;
+	}
+
+div{
+	text-align: center;
+	margin-top: 300px;
+	
+}
+
+.button {
+	background-color: white;
+	border: none;
+	color: black;
+	padding: 16px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 25px;
+	margin: 4px 2px;
+	transition-duration: 0.5s;
+	cursor: pointer;
+	font-family: Arial, Helvetica, sans-serif;
+	}
+.button:hover {
+	background-color: #327da8;
+	color: white;
+	
+}
+
+
+
+
